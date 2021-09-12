@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Minimap zoom extender
+## Notes: Minimap Zoom on Mouse Wheel
+## Author: Killersmath
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+MinimapZoom.lua
