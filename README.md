@@ -1,6 +1,6 @@
 # Minimap Zoom
 
-Minimap Zoom extener (Wow 1.12.1)
+Minimap Zoom extender (Wow 1.12.1)
 
 ## How to use
 
